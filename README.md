@@ -23,11 +23,16 @@ This project is a property management web application using the MERN stack (Mong
 
 **Endpoints**
 
-POST /api/properties/create_new_property
+POST /api/properties/create_new_property 
+
 GET /api/properties/fetch_property_details/:city
+
 PUT /api/properties/update_property_details
+
 GET /api/properties/find_cities_by_state/:state
+
 GET /api/properties/find_similar_properties/:property_id
+
 
 
 
